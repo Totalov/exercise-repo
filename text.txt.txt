@@ -1,1 +1,3 @@
 Push with Tortoise
+Made some changes in text and Commit and push with GitBash.
+The step with changes will make a conflict for resolving....
