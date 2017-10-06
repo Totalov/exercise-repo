@@ -1,1 +1,4 @@
+
 some text added in Bash folder
+
+added some text from Git web page.
