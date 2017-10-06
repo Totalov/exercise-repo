@@ -3,4 +3,5 @@ push againg with the repo cloned in the folder from tortoise.
 will make a conflict.
 Made some changes in text and Commit and push with GitBash.
 The step with changes will make a conflict for resolving....
-Now this should resolve the conflict, changes willn not be visible in the folder for Repo of GitBash. Need to pull them there too after ending.
+Now this should resolve the conflict, changes willn not be visible in the folder for Repo of GitBash. 
+Need to pull them there too after ending.
