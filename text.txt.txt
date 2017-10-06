@@ -1,1 +1,3 @@
 Push with Tortoise
+push againg with the repo cloned in the folder from tortoise.
+will make a conflict.
