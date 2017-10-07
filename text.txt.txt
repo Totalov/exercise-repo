@@ -8,4 +8,9 @@ Now this should resolve the conflict, changes willn not be visible in the folder
 Need to pull them there too after ending.
 Text added in folder of the Repo maded with TortoiseGit
 Text added in web GitHub....
+<<<<<<< HEAD
 Changes maded in Tortoise git Folder in Master Branch
+=======
+Changes maded in Tortoise Git folder in branch Develop
+
+>>>>>>> develop
